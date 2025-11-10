@@ -260,12 +260,6 @@ Para personalizar el portfolio:
 - [WebAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [W3C Markup Validation Service](https://validator.w3.org/)
 
----
-
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ---
 
