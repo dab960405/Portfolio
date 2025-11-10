@@ -147,7 +147,8 @@ El código HTML ha sido validado usando el **W3C Markup Validation Service**:
 3. Copia y pega el código HTML
 4. Verifica que no hay errores
 
-   ![Texto alternativo](assets/img/ValidacionHTML.png)
+  ![Validación HTML](assets/img/ValidacionHTML.png)
+
 
 
 ---
