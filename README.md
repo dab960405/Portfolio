@@ -147,27 +147,37 @@ El código HTML ha sido validado usando el **W3C Markup Validation Service**:
 3. Copia y pega el código HTML
 4. Verifica que no hay errores
 
+   ![Texto alternativo](assets/img/ValidacionHTML.png)
+
+
 ---
 
 ## 🌐 Cómo Visualizar el Proyecto
 
-### Método 1: Localmente
+### Método 1: Visualizar el sitio desplegado (Recomendado)
 
-1. Descarga el archivo `index.html`
-2. Abre el archivo con tu navegador web favorito
-3. ¡Listo! El sitio funciona completamente sin servidor
+El proyecto está desplegado mediante **Netlify**, por lo que puedes acceder a la versión en línea sin necesidad de descargar nada:
 
-### Método 2: GitHub Pages
+**🔗 URL del despliegue en Netlify:** https://portfolio-diegobravo.netlify.app/
 
-1. Sube el archivo a un repositorio de GitHub
-2. Ve a Settings > Pages
-3. Selecciona la rama `main` y carpeta `root`
-4. GitHub generará una URL pública
 
-### Método 3: Editor en vivo
+### Método 2: Ver los archivos del proyecto en GitHub
 
-- Usa VSCode con la extensión "Live Server"
-- Abre el archivo y haz clic en "Go Live"
+Todos los archivos del proyecto (`index.html`, estilos, assets y documentación) se encuentran en el repositorio oficial
+
+### Método 3: Ejecutar el sitio localmente
+
+1. Descarga o clona el repositorio desde GitHub  
+2. Abre el archivo `index.html` en tu navegador  
+3. El sitio funciona completamente sin servidor  
+
+
+### Método 4: Visualización en editor en vivo
+
+- Usa VS Code con la extensión **Live Server**  
+- Abre el archivo `index.html`  
+- Haz clic en **Go Live** para verlo con recarga automática  
+
 
 ---
 
