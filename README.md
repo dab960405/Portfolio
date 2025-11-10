@@ -262,14 +262,6 @@ Para personalizar el portfolio:
 
 ---
 
-## 👨‍💻 Autor
-
-**[Tu Nombre]**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu@email.com
-
----
 
 ## 📄 Licencia
 
